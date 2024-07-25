@@ -1,3 +1,2 @@
 # Bo-Lang
-It is Realtime speech to speech conversion Tool 
-Hello Ankit
+It is Realtime speech to speech conversion Tool
